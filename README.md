@@ -89,4 +89,4 @@ smsboomer --help
 
 ## License
 
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FLiuYi0526%2Fsms-boom.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FLiuYi0526%2Fsms-boom?ref=badge_large)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Faxetroy%2Fsms-boom.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Faxetroy%2Fsms-boom?ref=badge_large)
